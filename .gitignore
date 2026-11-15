@@ -1,0 +1,9 @@
+__pycache__/
+*.pyc
+multas_local.db
+*.db
+datos_ejemplo/multas_excel_*.xlsx
+datos_ejemplo/multas_csv_*.csv
+*.json
+.env
+.venv/
